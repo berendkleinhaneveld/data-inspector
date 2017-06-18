@@ -1,0 +1,6 @@
+name: DataInspector
+
+dependencies:
+  - python >=3.6
+  - pyside
+  - vtk =7.1.0
